@@ -1,1 +1,1 @@
-# day1
+demo maven archetype generation
